@@ -1,1 +1,0 @@
-# SELinux_Brief_Guide
